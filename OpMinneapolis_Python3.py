@@ -1,7 +1,7 @@
 #Reedited by @YourAnonS0u1 
 #Hello to ala :)
 #Lets just pwn shit now :D 
-#Converted to Python3 by @th30c05 based in 2to3 library
+#Converted to Python3 by @th30c05 based in 2to3 library ;)
 import socket,random,threading,time,ssl,sys,time,re
 try:
  import requests
